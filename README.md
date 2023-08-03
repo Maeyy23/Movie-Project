@@ -1,1 +1,1 @@
-# ochol101
+This is a project to simulate netflix
